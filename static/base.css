@@ -1,0 +1,7 @@
+table,th,tr,td{
+    border: 1px solid;
+    border-color: black;
+}
+#hd-bxchx{
+    min-width: 20px;
+}
