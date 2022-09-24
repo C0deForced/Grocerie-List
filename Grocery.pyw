@@ -53,5 +53,5 @@ def clear_all():
     return 'blank'
 
 if __name__ == '__main__':
-    core.run(debug=True, host='172.20.0.19', port=6008.)
+    core.run(debug=True, host='127.0.0.1', port=6008.)
     #
